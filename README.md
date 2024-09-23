@@ -6,7 +6,7 @@
 
 - 🎹 Generate basic waveforms: square, sine, sawtooth, and triangle.
 - 🎧 Easily play tones at any frequency and duration.
-- 🔊 Configurable sample rates for high-quality sound.
+- 🎛️ Configurable sample rates for high-quality sound.
 - 🛠 Lightweight and easy-to-use API for quick integration.
 
 ## 📦 Installation
@@ -14,4 +14,20 @@
 To install **gosynth**, simply run:
 
 ```bash
-go get github.com/yourusername/gosynth
+go get github.com/TH3-F001/gosynth
+```
+
+## 🌊 Supported Waveforms
+- ◽ Square Wave: Rich in harmonics, ideal for retro game sounds.
+- ∿ Sine Wave: Pure tone, clean and simple.
+- 🪚 Sawtooth Wave: Great for gritty, buzzy sounds.
+- 🔺 Triangle Wave: Softer version of a square wave.
+
+## 🗺️ Roadmap
+🖥️ Create the general interface 
+✉️ Add support for ADSR envelopes.
+📻 Add support forwaveform modulation (AM/FM).
+🌀 Add support for one or more VFO's (addi)
+
+🤝 Contributing
+Feel free to submit pull requests, report issues, or suggest features! Contributions are always welcome.
