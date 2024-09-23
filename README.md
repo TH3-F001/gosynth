@@ -1,6 +1,6 @@
 # 🎵 gosynth 🎶
 
-**gosynth** is a lightweight Go package for generating simple audio tones and waveforms. Perfect for synth enthusiasts, developers exploring audio synthesis, or anyone who needs to create basic tones like sine, square, and saw waves in their Go applications.
+**gosynth** is a lightweight Go package for generating simple audio tones and waveforms. Perfect for synth enthusiasts, developers exploring audio synthesis, or anyone who needs to create basic tones like sine, square, and saw waves in their Go applications. Could also be used as a based to create multi-channel audio chip emulations if i've done my job right.
 
 ## 🚀 Features
 
